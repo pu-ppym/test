@@ -4,3 +4,6 @@ git remote add origin https://github.com/깃아이디/레포지토리이름.git
 git config --list
 git push -u origin main
 
+git clone https://github.com/pu-ppym/test.git
+git clone https://github.com/pu-ppym/test.git .
+

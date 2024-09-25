@@ -5,3 +5,6 @@
 - git push -u origin main
 - git clone https://github.com/inhadeepblue/test.git
 - git clone https://github.com/inhadeepblue/test.git .
+
+깃 리눅스 명령어
+- cd ..

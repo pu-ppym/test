@@ -1,0 +1,6 @@
+5주차
+
+git remote add origin https://github.com/깃아이디/레포지토리이름.git
+git config --list
+git push -u origin main
+

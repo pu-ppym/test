@@ -1,2 +1,13 @@
 git init
 git status
+git add
+git commit
+git config --global user.name
+git log
+git checkout
+git branch -M main
+
+touch 파일명
+ls -a
+pwd
+cat 파일명

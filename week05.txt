@@ -7,3 +7,5 @@ git push -u origin main
 git clone https://github.com/pu-ppym/test.git
 git clone https://github.com/pu-ppym/test.git .
 
+
+cd ..

@@ -3,3 +3,5 @@
 - git remote add origin https://github.com/깃아이디/리포지토리이름.git
 - git config --list
 - git push -u origin main
+- git clone https://github.com/inhadeepblue/test.git
+- git clone https://github.com/inhadeepblue/test.git .

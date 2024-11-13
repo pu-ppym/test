@@ -1,0 +1,4 @@
+12주
+- branch
+- git log 옵션(--oneline)
+

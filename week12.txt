@@ -1,4 +1,5 @@
 12주
 - branch
-- git log 옵션(--oneline)
+- git log 옵션(--oneline, --graph, --all)
+- git switch 브랜치명
 

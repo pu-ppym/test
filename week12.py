@@ -9,6 +9,7 @@ else:
         if number % i == 0:
             # counts = counts + 1
             is_prime = False
+            break
         print(i, end=' ')
 
 
